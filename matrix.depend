@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647242469 source:d:\bingxing\homework-x86\matrix\main.cpp
+	<stdio.h>
+	<sys/time.h>
+	<unistd.h>
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
